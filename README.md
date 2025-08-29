@@ -17,13 +17,16 @@ Python_Data_Analysis/
 │
 ├── Data/                  # Datos crudos y limpios
 │   ├── Ventas.csv
-│   └── Ventas_clean.csv
+│   ├── Ventas_clean.csv
+│   ├── medallas.csv
+│   └── medallas_clean.csv
 │
 ├── Notebooks/             # Notebooks Jupyter
-│   └── 01_data_cleaning.ipynb
+│   ├── 01_data_cleaning.ipynb
+│   └── 02_data_analysis.ipynb
 │
 └── README.md              # Documentación del proyecto
-```
+
 ---
 
 ## 📓 Notebooks
