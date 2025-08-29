@@ -90,6 +90,15 @@ Python_Data_Analysis/
 - Las películas más largas tienden a tener un **rating levemente mejor** (+0.27).  
 - La recaudación muestra una correlación leve con el año (+0.25), reflejando el crecimiento del mercado y la inflación.  
 
+### 04_modeling.ipynb
+- **EDA histórico de los Mundiales:**
+  - Promedio de goles por partido a lo largo del tiempo.
+  - Top 10 selecciones con más victorias.
+  - Cantidad de partidos definidos por penales por torneo.
+- **Modelo predictivo simple:**
+  - Variables: equipos, año, fase del torneo.
+  - Algoritmo: Árbol de Decisión (max_depth=5).
+  - Se evaluó con un conjunto de test → se generó matriz de confusión.
 
 ---
 
