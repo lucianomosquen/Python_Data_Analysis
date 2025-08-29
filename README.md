@@ -83,8 +83,10 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
+
+
 ## 📸 Preview
 
-![Top 10 países con más medallas](Images/preview_top10.png)
+<img src="Images/preview_top10.png" alt="Top 10 países con más medallas" width="500"/>
 
-![Distribución de medallas en el Top 5](Images/preview_top5.png)
+<img src="Images/preview_top5.png" alt="Distribución de medallas en el Top 5" width="500"/>
