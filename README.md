@@ -53,6 +53,10 @@ Este proyecto usa Python 3 y las siguientes librerías:
 ```bash
 pip install pandas numpy matplotlib seaborn
 ```
+- `pandas` → Manipulación de datos  
+- `numpy` → Operaciones numéricas  
+- `matplotlib` / `seaborn` → Visualización (para siguientes etapas)  
+
 ---
 
 ## ✨ Autor
