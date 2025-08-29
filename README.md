@@ -15,17 +15,22 @@ El objetivo es mostrar paso a paso cómo transformar datos crudos en informació
 ```text
 Python_Data_Analysis/
 │
-├── Data/                  # Datos crudos y limpios
+├── Data/
 │   ├── Ventas.csv
 │   ├── Ventas_clean.csv
 │   ├── medallas.csv
 │   └── medallas_clean.csv
 │
-├── Notebooks/             # Notebooks Jupyter
+├── Notebooks/
 │   ├── 01_data_cleaning.ipynb
 │   └── 02_data_analysis.ipynb
 │
-└── README.md              # Documentación del proyecto
+├── Images/
+│   ├── preview_top10.png
+│   └── preview_top5.png  
+│
+└── README.md
+
 ```
 ---
 
