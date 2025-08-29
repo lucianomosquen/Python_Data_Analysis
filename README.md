@@ -26,7 +26,7 @@ Python_Data_Analysis/
 │   └── 02_data_analysis.ipynb
 │
 └── README.md              # Documentación del proyecto
-
+```
 ---
 
 ## 📓 Notebooks
