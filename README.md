@@ -106,8 +106,8 @@ Python_Data_Analysis/
 - [x] 01_data_cleaning.ipynb → Limpieza y normalización.  
 - [x] 02_data_analysis.ipynb → Métricas descriptivas y primeras visualizaciones.  
 - [x] 03_visualizations.ipynb → Gráficos avanzados y storytelling con datos.  
-- [ ] 04_modeling.ipynb → (opcional) Modelos predictivos simples.  
-  
+- [x] 04_modeling.ipynb → Modelo predictivo simple aplicado a Mundiales.  
+
 
 ---
 
