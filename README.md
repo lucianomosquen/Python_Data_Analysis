@@ -52,3 +52,17 @@ Este proyecto usa Python 3 y las siguientes librerías:
 
 ```bash
 pip install pandas numpy matplotlib seaborn
+```
+---
+
+## ✨ Autor
+
+**Luciano Mosquén**  
+🔗 [LinkedIn](https://www.linkedin.com/in/lucianomosquen)  
+🌐 [GitHub](https://github.com/lucianomosquen)  
+
+---
+
+## 📸 Preview (próximamente)
+
+Aquí voy a incluir capturas de notebooks y gráficos generados en los análisis.  
