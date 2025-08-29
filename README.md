@@ -52,6 +52,7 @@ Python_Data_Analysis/
 Este proyecto usa Python 3 y las siguientes librerías:  
 
 bash
+
 pip install pandas numpy matplotlib seaborn
 
 
