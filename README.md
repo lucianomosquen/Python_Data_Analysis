@@ -9,9 +9,10 @@ Este repositorio contiene un flujo de trabajo completo para el **análisis de da
 El objetivo es mostrar paso a paso cómo transformar datos crudos en información lista para el análisis, con notebooks bien documentados y datasets organizados.  
 
 ---
+
 ## 📂 Estructura del repositorio
 
-```text
+\`\`\`
 Python_Data_Analysis/
 │
 ├── Data/                  # Datos crudos y limpios
@@ -22,6 +23,7 @@ Python_Data_Analysis/
 │   └── 01_data_cleaning.ipynb
 │
 └── README.md              # Documentación del proyecto
+\`\`\`
 
 ---
 
@@ -68,4 +70,5 @@ pip install pandas numpy matplotlib seaborn
 
 ## 📸 Preview (próximamente)
 
+Aquí voy a incluir capturas de notebooks y gráficos generados en los análisis.  
 
