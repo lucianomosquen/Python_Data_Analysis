@@ -64,6 +64,8 @@ Python_Data_Analysis/
   - 🥇 Comparación Oro, Plata y Bronce en los 5 países principales.
     
 ### 03_visualizations.ipynb
+
+**Aspectos técnicos**
 - Distribuciones de `rating` y `duración`.
 - Relaciones: `rating` vs `metascore` y `rating` vs `recaudación(M)`.
 - Comparaciones: Top directores (barh) y boxplot de duración por género.
@@ -73,6 +75,14 @@ Python_Data_Analysis/
   - `rating`–`duración`: +0.27 (débil positiva)
   - `metascore`–`recaudación(M)`: +0.18 (leve positiva)
   - `año`–`duración`: +0.22 / `año`–`recaudación(M)`: +0.25
+
+**Análisis e insights**
+- La distribución de **ratings** se concentra entre 6 y 8 puntos.  
+- Las películas han tendido a ser más largas en décadas recientes.  
+- Crítica y público no siempre coinciden: la correlación entre **rating y metascore** es casi nula (-0.06).  
+- Las películas más largas tienden a tener un **rating levemente mejor** (+0.27).  
+- La recaudación muestra una correlación leve con el año (+0.25), reflejando el crecimiento del mercado y la inflación.  
+
 
 ---
 
