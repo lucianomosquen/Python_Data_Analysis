@@ -35,12 +35,20 @@ Python_Data_Analysis/
 - Verificación de consistencia: Total Venta = Cantidad * Precio Unitario.  
 - Exportación de dataset limpio → Ventas_clean.csv.  
 
+### 02_data_analysis.ipynb
+- Limpieza adicional de datos del medallero olímpico.  
+- Conversión segura de columnas numéricas (manejo de valores no válidos).  
+- Métricas descriptivas: Top 10 países por medallas de oro y medallas totales.  
+- Visualizaciones:
+  - 📊 Gráfico de barras: Top 10 países con más medallas totales.  
+  - 🥇 Comparación Oro, Plata y Bronce en los 5 países principales.  
+
 ---
 
 ## 🚀 Roadmap
 
 - [x] 01_data_cleaning.ipynb → Limpieza y normalización.  
-- [ ] 02_data_analysis.ipynb → Métricas descriptivas y primeras visualizaciones.  
+- [x] 02_data_analysis.ipynb → Métricas descriptivas y primeras visualizaciones.  
 - [ ] 03_visualizations.ipynb → Gráficos avanzados y storytelling con datos.  
 - [ ] 04_modeling.ipynb → (opcional) Modelos predictivos simples.  
 
