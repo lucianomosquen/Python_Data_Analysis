@@ -12,7 +12,7 @@ El objetivo es mostrar paso a paso cómo transformar datos crudos en informació
 
 ## 📂 Estructura del repositorio
 
-\`\`\`
+```text
 Python_Data_Analysis/
 │
 ├── Data/                  # Datos crudos y limpios
@@ -23,7 +23,7 @@ Python_Data_Analysis/
 │   └── 01_data_cleaning.ipynb
 │
 └── README.md              # Documentación del proyecto
-\`\`\`
+```
 
 ---
 
@@ -53,12 +53,12 @@ Este proyecto usa Python 3 y las siguientes librerías:
 
 \`\`\`bash
 pip install pandas numpy matplotlib seaborn
-\`\`\`
+
 
 - `pandas` → Manipulación de datos  
 - `numpy` → Operaciones numéricas  
 - `matplotlib` / `seaborn` → Visualización (para siguientes etapas)  
-
+\`\`\`
 ---
 
 ## ✨ Autor
