@@ -61,7 +61,18 @@ Python_Data_Analysis/
 - Métricas descriptivas: Top 10 países por medallas de oro y medallas totales.  
 - Visualizaciones:
   - 📊 Gráfico de barras: Top 10 países con más medallas totales.  
-  - 🥇 Comparación Oro, Plata y Bronce en los 5 países principales.  
+  - 🥇 Comparación Oro, Plata y Bronce en los 5 países principales.
+    
+### 03_visualizations.ipynb
+- Distribuciones de `rating` y `duración`.
+- Relaciones: `rating` vs `metascore` y `rating` vs `recaudación(M)`.
+- Comparaciones: Top directores (barh) y boxplot de duración por género.
+- Tendencias: películas por década y rating promedio por año.
+- Matriz de correlación (Pearson) entre variables numéricas.
+  - `rating`–`metascore`: -0.06 (casi nula)
+  - `rating`–`duración`: +0.27 (débil positiva)
+  - `metascore`–`recaudación(M)`: +0.18 (leve positiva)
+  - `año`–`duración`: +0.22 / `año`–`recaudación(M)`: +0.25
 
 ---
 
