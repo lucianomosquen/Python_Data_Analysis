@@ -5,8 +5,11 @@
 ![Pandas](https://img.shields.io/badge/Library-Pandas-green?logo=pandas)  
 ![Repo Status](https://img.shields.io/badge/Status-En%20Progreso-yellow)  
 
-Este repositorio contiene un flujo de trabajo completo para el **análisis de datos de ventas** utilizando Python.  
-El objetivo es mostrar paso a paso cómo transformar datos crudos en información lista para el análisis, con notebooks bien documentados y datasets organizados.  
+## 📖 Descripción del proyecto
+
+Este repositorio reúne distintos análisis de datos en Python aplicados a datasets de ventas, deportes y cine.  
+El objetivo es mostrar un flujo completo: desde la limpieza y exploración de datos, hasta visualizaciones avanzadas y un modelo predictivo aplicado a los Mundiales de fútbol.  
+Todo el código está organizado en notebooks con datasets y resultados documentados, listo para ser replicado y adaptado.
 
 ---
 
