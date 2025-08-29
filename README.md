@@ -24,7 +24,6 @@ Python_Data_Analysis/
 │
 └── README.md              # Documentación del proyecto
 
-
 ## 📓 Notebooks
 
 ### `01_data_cleaning.ipynb`
@@ -49,21 +48,5 @@ Python_Data_Analysis/
 
 Este proyecto usa Python 3 y las siguientes librerías:  
 
-\`\`\`bash
+```bash
 pip install pandas numpy matplotlib seaborn
-\`\`\`
-
-- `pandas` → Manipulación de datos  
-- `numpy` → Operaciones numéricas  
-- `matplotlib` / `seaborn` → Visualización (para siguientes etapas)  
-
----
-
-## ✨ Autor
-
-👤 **Luciano Mosquén**  
-📎 [LinkedIn](https://www.linkedin.com/in/lucianomosquen) • 🌐 [GitHub](https://github.com/lucianomosquen)
-
----
-
-## 📸 Preview (próximamente)
