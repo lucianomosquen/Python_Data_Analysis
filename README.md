@@ -146,3 +146,5 @@ pip install pandas numpy matplotlib seaborn
 <img src="Images/top_directores.png" alt="Top directores por cantidad de películas" width="520"/>
 
 <img src="Images/heatmap_correlaciones.png" alt="Matriz de correlación" width="520"/>
+
+<img src="Images/modelo_mundiales_confusion.png" alt="Matriz de confusión - Predicción de Mundiales" width="520"/>
