@@ -12,7 +12,7 @@ El objetivo es mostrar paso a paso cómo transformar datos crudos en informació
 
 ## 📂 Estructura del repositorio
 
-
+```text
 Python_Data_Analysis/
 │
 ├── Data/                  # Datos crudos y limpios
