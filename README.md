@@ -15,21 +15,33 @@ El objetivo es mostrar paso a paso cómo transformar datos crudos en informació
 ```text
 Python_Data_Analysis/
 │
-├── Data/
+├── Data/                  # Datos crudos y limpios
 │   ├── Ventas.csv
 │   ├── Ventas_clean.csv
 │   ├── medallas.csv
-│   └── medallas_clean.csv
+│   ├── medallas_clean.csv
+│   └── Top-Películas.csv
 │
-├── Notebooks/
+├── Notebooks/             # Notebooks Jupyter
 │   ├── 01_data_cleaning.ipynb
-│   └── 02_data_analysis.ipynb
+│   ├── 02_data_analysis.ipynb
+│   └── 03_visualizations.ipynb
 │
 ├── Images/
 │   ├── preview_top10.png
-│   └── preview_top5.png  
+│   ├── preview_top5.png
+│   ├── dist_rating.png
+│   ├── dist_duracion.png
+│   ├── scatter_rating_metascore.png
+│   ├── scatter_rating_recaudacion.png
+│   ├── top_directores.png
+│   ├── boxplot_duracion_genero.png
+│   ├── peliculas_por_decada.png
+│   ├── rating_promedio_por_anio.png
+│   └── heatmap_correlaciones.png
 │
 └── README.md
+
 
 ```
 ---
