@@ -113,3 +113,10 @@ pip install pandas numpy matplotlib seaborn
 <img src="Images/preview_top10.png" alt="Top 10 países con más medallas" width="500"/>
 
 <img src="Images/preview_top5.png" alt="Distribución de medallas en el Top 5" width="500"/>
+
+
+<img src="Images/peliculas_por_decada.png" alt="Películas por década" width="520"/>
+
+<img src="Images/top_directores.png" alt="Top directores por cantidad de películas" width="520"/>
+
+<img src="Images/heatmap_correlaciones.png" alt="Matriz de correlación" width="520"/>
